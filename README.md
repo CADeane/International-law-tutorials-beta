@@ -1,9 +1,9 @@
 
 Articulate Storyline Foreign & International Legal Research Tutorials
-preliminary location for uploading and testing int-law tutorials
+Preliminary location for uploading and testing int-law tutorials
 =============================
 
-Interactive Articulate Storyline modules developed to teach undergraduates information literacy skills such as narrowing a topic, evaluating sources and citing. [Visit the GitHub page for this project to see working examples of these modules.](http://marquetterml.github.io/information-literacy-modules)
+Interactive Articulate Storyline modules developed to teach undergraduates information literacy skills such as narrowing a topic, evaluating sources and citing. [Visit the GitHub page for this project to see working examples of these modules.](http://CADeane.github.io/International-law-tutorials-beta)
 
 Customization
 =============
